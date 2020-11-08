@@ -21,7 +21,7 @@ namespace mycalc
 
             // If the value held in either "input_1" or "input_2"is less than zero, write a message to the console 
             if (input_1 < 0 || input_2 < 0) {
-                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Please enter a number greater than zero!  Press any key to end program.", result);  
 
                 Console.ForegroundColor = ConsoleColor.White;
@@ -37,7 +37,7 @@ namespace mycalc
 
                 Console.ForegroundColor = ConsoleColor.White;
             }
-            
+
             Console.ReadKey();  
         }
 
