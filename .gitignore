@@ -431,3 +431,8 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+Step1/ExtendedCalculator/mycalc/bin/
+Step1/ExtendedCalculator/mycalc/obj/
+Step1/StandardCalculator/mycalc/bin/
+Step1/StandardCalculator/mycalc/obj/
