@@ -18,7 +18,7 @@ namespace mycalc
             // Set the result value to a starting value of zero
             int result = 0;  
            
-            // Call a function to add the two values together, put the output of the function into the result variable
+        // Call a function to add the two values together, put the output of the function into the result variable
             result = Addition(input_1, input_2);  
                  
             // Write a message back to the console with the result
